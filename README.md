@@ -1,1 +1,1 @@
-# my-second-repo
+Az életem második repója.
